@@ -1,0 +1,5 @@
+Command:
+curl "http://localhost:3060/api/secondchance/search?name=book"
+
+Output:
+[{"_id":"6752c8f47e07c13f38b9db4a","id":"429","category":"Books","condition":"Used","age_days":240,"date_added":1557300000,"name":"Harry Potter Book Set","description":"Entire collection, some wear on covers","zipcode":"65251","image":"","age_years":0.66},{"_id":"6752c8f47e07c13f38b9db4b","id":"430","category":"Books","condition":"Used","age_days":365,"date_added":1541500000,"name":"Cooking for Beginners","description":"Great starter cookbook, slightly stained","zipcode":"10001","image":"","age_years":1}]
